@@ -1,1 +1,1 @@
-# BA-data-visualization
+# practices
